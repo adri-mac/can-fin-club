@@ -1,2 +1,1 @@
-# can-fin-club
-Financial Aid Club website
+#Canada College Financial & Investment Club Website
