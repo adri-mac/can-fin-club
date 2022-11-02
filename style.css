@@ -1,4 +1,19 @@
-h1 {
+.top {
     text-align: center;
-    color: blueviolet;
+    background-color: rgb(34, 50, 72);
+    color: white;
+    font-size: 75px;
+}
+
+.nav-items {
+    text-align: center;
+    background-color: rgb(34, 50, 72);
+    ;
+}
+
+li {
+    color :rgb(34, 50, 72);
+    font-size: 30px;
+    margin-left: 10px;
+    text-align: right;
 }
