@@ -2,3 +2,55 @@ h1 {
     text-align: center;
     color: blueviolet;
 }
+
+a:link {
+    color: #ffffff;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    color: grey;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.title {
+    color: White;
+    background-color: transparent;
+    text-align: center;
+}
+
+.header {
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: left;
+    background: #1D334A;
+    font-size: 40px;
+    color:White;
+}
+
+.body {
+    margin: 0;
+    width:100vw;
+    height: 00vh;
+    color: white;
+    font-size:20px;
+}
+
+.footer {
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: right;
+    background: #245354;
+    font-size: 25px;
+    color: white;
+}
